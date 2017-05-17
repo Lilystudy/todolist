@@ -11,7 +11,7 @@
   </div>
 </template>
 <script>
-  import Store from '../stroe.js'
+  import Store from '../store.js'
 
   export default {
     name: 'detailsText',
